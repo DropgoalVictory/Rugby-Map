@@ -184,38 +184,48 @@
     },
     {
       "date": "2026-10-30",
-      "time": "19:45",
+      "time": "",
       "home_team_id": 43,
       "away_team_id": 46,
-      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=952967"
+      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=952967",
+      "home_score": 16,
+      "away_score": 22
     },
     {
       "date": "2026-10-31",
-      "time": "15:00",
+      "time": "",
       "home_team_id": 41,
       "away_team_id": 45,
-      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=952968"
+      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=952968",
+      "home_score": 28,
+      "away_score": 31
     },
     {
       "date": "2026-10-31",
-      "time": "15:05",
+      "time": "",
       "home_team_id": 42,
       "away_team_id": 50,
-      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=952970"
+      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=952970",
+      "home_score": 36,
+      "away_score": 28
     },
     {
       "date": "2026-10-31",
-      "time": "17:30",
+      "time": "",
       "home_team_id": 49,
       "away_team_id": 44,
-      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=952971"
+      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=952971",
+      "home_score": 28,
+      "away_score": 14
     },
     {
       "date": "2026-10-31",
-      "time": "15:00",
+      "time": "",
       "home_team_id": 51,
       "away_team_id": 48,
-      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=952969"
+      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=952969",
+      "home_score": 39,
+      "away_score": 31
     },
     {
       "date": "2026-12-04",

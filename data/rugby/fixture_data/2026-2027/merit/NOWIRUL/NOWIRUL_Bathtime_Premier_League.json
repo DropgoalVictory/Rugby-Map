@@ -183,38 +183,48 @@
     },
     {
       "date": "2026-10-31",
-      "time": "15:00",
+      "time": "",
       "home_team_id": 125781,
       "away_team_id": 3934,
-      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1295265"
+      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1295265",
+      "home_score": 28,
+      "away_score": 54
     },
     {
       "date": "2026-10-31",
-      "time": "15:00",
+      "time": "",
       "home_team_id": 18925,
       "away_team_id": 8427,
-      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1297268"
+      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1297268",
+      "home_score": 47,
+      "away_score": 12
     },
     {
       "date": "2026-10-31",
-      "time": "15:00",
+      "time": "",
       "home_team_id": 20985,
       "away_team_id": 13011,
-      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1295266"
+      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1295266",
+      "home_score": 35,
+      "away_score": 35
     },
     {
       "date": "2026-10-31",
-      "time": "12:00",
+      "time": "",
       "home_team_id": 17181,
       "away_team_id": 13065,
-      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1295270"
+      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1295270",
+      "home_score": 104,
+      "away_score": 10
     },
     {
       "date": "2026-10-31",
-      "time": "14:15",
+      "time": "",
       "home_team_id": 18678,
       "away_team_id": 25710,
-      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1295268"
+      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1295268",
+      "home_score": 26,
+      "away_score": 34
     },
     {
       "date": "2026-11-07",

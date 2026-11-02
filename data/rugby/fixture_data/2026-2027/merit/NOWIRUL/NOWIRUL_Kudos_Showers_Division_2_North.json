@@ -228,38 +228,48 @@
     },
     {
       "date": "2026-10-31",
-      "time": "15:00",
+      "time": "",
       "home_team_id": 8163,
       "away_team_id": 427,
-      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1295558"
+      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1295558",
+      "home_score": 50,
+      "away_score": 15
     },
     {
       "date": "2026-10-31",
-      "time": "15:00",
+      "time": "",
       "home_team_id": 7280,
       "away_team_id": 127668,
-      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1295560"
+      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1295560",
+      "home_score": 45,
+      "away_score": 14
     },
     {
       "date": "2026-10-31",
-      "time": "15:00",
+      "time": "",
       "home_team_id": 12442,
       "away_team_id": 8485,
-      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1295559"
+      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1295559",
+      "home_score": 22,
+      "away_score": 14
     },
     {
       "date": "2026-10-31",
-      "time": "15:00",
+      "time": "",
       "home_team_id": 12374,
       "away_team_id": 25390,
-      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1295561"
+      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1295561",
+      "home_score": 3,
+      "away_score": 27
     },
     {
       "date": "2026-10-31",
-      "time": "15:00",
+      "time": "",
       "home_team_id": 19779,
       "away_team_id": 21658,
-      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1295563"
+      "match_url": "https://www.englandrugby.com/fixtures-and-results/match-centre-community?matchId=1295563",
+      "home_score": 38,
+      "away_score": 10
     },
     {
       "date": "2026-11-07",
